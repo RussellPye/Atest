@@ -12,11 +12,11 @@
                 file may fail to play on certain devices (e.g. mobile). The script will detect failure
                 and fall back to the smaller file.
                 For successful fallback, sources should be sorted first by file format and then by size,
-                with the highest resolution files first.
+                with the highest resolution files first. 
                 */
                 src: [
-                    'assets/rail.mp4',
-                    'assets/rail-sm.mp4'
+                    'assets/rail.webm',
+                    'assets/rail-sm.webm'
                 ]
             }).play();
             video.muted = true;
