@@ -16,7 +16,7 @@
                 */
                 src: [
                     'assets/rail.mp4',
-                    'assets/rail.mp4',
+                    'assets/rail-sm.mp4',
                     'assets/rail.webm',
                     'assets/rail-sm.webm'
                 ]
